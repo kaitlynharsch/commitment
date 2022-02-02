@@ -24,12 +24,21 @@ nav a {
   list-style: none;
 }
 
+
+/* ead2cd --tan */
+/* f54d63 --pink */
 #first {
-  background-color: white;
+  background-color: #f54d63;
   padding: 3em;
   margin: 1em;
-  radius: 2em;
-  border-radius: 5em;
+  border-radius: 1em;
+}
+
+#welcome {
+  background-color: #ead2cd;
+  padding: 2em;
+  /* margin: 1em; */
+  border-radius: 2em;
 }
 
 #pics {
@@ -37,7 +46,7 @@ nav a {
   padding: 3em;
   margin: 1em;
   radius: 2em;
-  border-radius: 5em;
+  /* border-radius: 5em; */
 }
 
 .fit {
@@ -54,7 +63,7 @@ nav a {
 }
 
 .fit img:hover {
-  
+
 }
 
 #heart {
