@@ -28,7 +28,7 @@ nav a {
 /* ead2cd --tan */
 /* f54d63 --pink */
 #first {
-  background-color: #f54d63;
+  background-color: #df85a1;
   padding: 3em;
   margin: 1em;
   border-radius: 1em;
@@ -60,10 +60,13 @@ nav a {
   height: auto;
   padding: .5em;
   border-radius: 2em;
+  box-shadow: 5px;
 }
 
 .fit img:hover {
-
+  width: 52%;
+  height: auto;
+  filter: drop-shadow(5px 5px 5px #222222);
 }
 
 #heart {
