@@ -21,6 +21,9 @@ body {
   border-radius: 5em;
 }
 
+.fit {
+  display: flex;
+}
 .fit img {
   object-fit: cover;
   width: 50%;
