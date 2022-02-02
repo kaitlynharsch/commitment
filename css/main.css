@@ -10,5 +10,14 @@ body {
   padding: 3em;
   margin: 1em;
   radius: 2em;
-  border-radius: 5em;;
+  border-radius: 5em;
+}
+
+#pics {
+  background-color: white;
+  padding: 3em;
+  margin: 1em;
+  radius: 2em;
+  border-radius: 5em;
+
 }
