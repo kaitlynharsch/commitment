@@ -32,6 +32,7 @@ nav a {
   padding: 3em;
   margin: 1em;
   border-radius: 1em;
+  text-align: center;
 }
 
 #welcome {
@@ -46,6 +47,7 @@ nav a {
   padding: 3em;
   margin: 1em;
   radius: 2em;
+  text-align: center;
   /* border-radius: 5em; */
 }
 
