@@ -29,11 +29,13 @@ nav {
 
 .fit {
   display: flex;
+  justify-content: center;
 }
 
 .fit img {
   object-fit: cover;
   width: 50%;
   height: auto;
-  padding-right: 1em;
+  padding: .5em;
+  border-radius: 2em;
 }
