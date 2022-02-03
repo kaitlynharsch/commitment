@@ -24,6 +24,14 @@ nav a {
   list-style: none;
 }
 
+#bentleyPage {
+  background-color: #ead2cd;
+  text-align: center;
+  padding: 2em;
+  margin: 1em;
+  display: flex;
+  justify-content: center;
+}
 
 /* ead2cd --tan */
 /* f54d63 --pink */
@@ -69,9 +77,10 @@ nav a {
   height: auto;
   filter: drop-shadow(5px 5px 5px #222222);
 }
-
+/* Heart shape taken from https://css-tricks.com/the-shapes-of-css/ */
 #heart {
-  left: 15em;
+  left: 1em;
+  right: 1em;
   position: relative;
   width: 100px;
   height: 90px;
