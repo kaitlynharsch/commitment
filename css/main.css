@@ -157,6 +157,12 @@ a {}
   font-size: 1.3em;
 }
 
+.button:hover {
+  font-weight: 700;
+  font-size: 1.4em;
+  filter: drop-shadow(5px 5px 5px #222222);
+}
+
 .learnMore {
   padding-top: 3vh;
   padding-bottom: 2vh;
