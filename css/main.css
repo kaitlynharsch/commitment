@@ -107,10 +107,19 @@ nav a {
   transform-origin: 100% 100%;
 }
 
-#balinese, #faqs{
+#balinese {
   background-color: #ead2cd;
   padding: 1em 5em 2em 5em;
   margin: auto;
+  text-align: center;
+  border-radius: 2em;
+  width: 50%
+}
+
+#faqs {
+  background-color: #ead2cd;
+  padding: 1em 5em 2em 5em;
+  /* margin: auto; */
   text-align: center;
   border-radius: 2em;
   width: 50%
