@@ -28,16 +28,17 @@ nav a {
   background-color: #ead2cd;
   text-align: center;
   padding: 2em;
-  margin: 1em;
+  margin: 3em;
   display: flex;
   justify-content: center;
+  border-radius: 1em;
 }
 
 /* ead2cd --tan */
 /* f54d63 --pink */
 #first {
   padding: 3em;
-  margin: 1em;
+  margin: 3em;
   border-radius: 1em;
   text-align: center;
 }
@@ -45,14 +46,14 @@ nav a {
 #welcome {
   background-color: #ead2cd;
   padding: 2em;
-  /* margin: 1em; */
+  /* margin: 3em; */
   border-radius: 2em;
 }
 
 #pics {
   background-color: #ead2cd;
   padding: 3em;
-  margin: 1em;
+  margin: 3em;
   text-align: center;
   border-radius: 2em;
 }
@@ -64,7 +65,7 @@ nav a {
 
 .fit img {
   object-fit: cover;
-  width: 50%;
+  width: 30%;
   height: auto;
   padding: .5em;
   border-radius: 2em;
@@ -72,7 +73,7 @@ nav a {
 }
 
 .fit img:hover {
-  width: 52%;
+  width: 32%;
   height: auto;
   filter: drop-shadow(5px 5px 5px #222222);
 }
@@ -104,4 +105,12 @@ nav a {
   left: 0;
   transform: rotate(45deg);
   transform-origin: 100% 100%;
+}
+
+#balinese {
+  background-color: #ead2cd;
+  padding: 5em;
+  margin: 3em;
+  text-align: center;
+  border-radius: 2em;
 }
