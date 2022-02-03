@@ -54,7 +54,7 @@ nav a {
   padding: 3em;
   margin: 1em;
   text-align: center;
-border-radius: 2em;
+  border-radius: 2em;
 }
 
 .fit {
@@ -76,6 +76,7 @@ border-radius: 2em;
   height: auto;
   filter: drop-shadow(5px 5px 5px #222222);
 }
+
 /* Heart shape taken from https://css-tricks.com/the-shapes-of-css/ */
 #heart {
   left: 1em;
