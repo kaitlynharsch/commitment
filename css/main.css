@@ -166,5 +166,5 @@ a {
 }
 
 li, a, img {
-  cursor: pointer;
+  cursor: url(https://fonts.gstatic.com/s/i/materialiconsoutlined/pets/v12/24px.svg);
 }
