@@ -20,6 +20,10 @@ nav a {
   font-weight: 500;
 }
 
+nav a:hover {
+  font-weight: 700;
+}
+
 #navLink {
   display: flex;
   list-style: none;
