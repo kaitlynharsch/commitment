@@ -81,14 +81,16 @@ h2 {
 }
 
 /* Heart shape taken from https://css-tricks.com/the-shapes-of-css/ */
-#heart {
+#heart1, #heart2 {
   position: relative;
   width: 100px;
   height: 90px;
 }
 
-#heart:before,
-#heart:after {
+#heart1:before,
+#heart1:after,
+#heart2:before,
+#heart2:after {
   position: absolute;
   content: "";
   left: 50px;
@@ -101,7 +103,8 @@ h2 {
   transform-origin: 0 100%;
 }
 
-#heart:after {
+#heart1:after,
+#heart2:after  {
   left: 0;
   transform: rotate(45deg);
   transform-origin: 100% 100%;
