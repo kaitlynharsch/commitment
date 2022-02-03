@@ -53,17 +53,10 @@ h2 {
 /* ead2cd --tan */
 /* f54d63 --pink */
 
-#first {
-  padding: 3em;
-  margin: 3em;
-  border-radius: 1em;
-  text-align: center;
-}
-
 #welcome {
   background-color: #abe7ff;
   padding: 2em;
-  /* margin: 3em; */
+  margin: 3em;
   border-radius: 2em;
 }
 
