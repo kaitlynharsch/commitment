@@ -52,7 +52,6 @@ h2 {
 /* 4fa7ca -- deepest blue */
 /* ead2cd --tan */
 /* f54d63 --pink */
-
 #welcome, #pics {
   background-color: #abe7ff;
   padding: 1em 3em 2em 3em;
@@ -130,7 +129,6 @@ h2 {
   display: flex;
   justify-content: center;
 }
-
 
 .pictures img {
   object-fit: cover;
