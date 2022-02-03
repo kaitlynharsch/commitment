@@ -136,13 +136,13 @@ h2 {
   width: 50%
 }
 
-.hiking, .cuddles, .posing, .birthday {
+.pictures {
   display: flex;
   justify-content: center;
 }
 
 
-.hiking img, .cuddles img, .birthday img {
+.pictures img {
   object-fit: cover;
   width: 35%;
   height: auto;
@@ -151,7 +151,7 @@ h2 {
   box-shadow: 5px;
 }
 
-.hiking img:hover, .cuddles img:hover, .birthday img:hover {
+.pictures img:hover {
   width: 37%;
   height: auto;
   filter: drop-shadow(5px 5px 5px #222222);
