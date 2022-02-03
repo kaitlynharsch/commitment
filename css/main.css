@@ -143,3 +143,19 @@ nav a {
   height: auto;
   filter: drop-shadow(5px 5px 5px #222222);
 }
+
+a {
+
+}
+
+.button {
+  background-color: #18A0FB;
+  color: white;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 500;
+  padding: .8em 3em .8em 3em;
+  border: none;
+  border-radius: 6px;
+  text-decoration: none;
+  font-size: 1.3em;
+}
