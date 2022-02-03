@@ -164,3 +164,7 @@ a {
   padding-top: 3vh;
   padding-bottom: 2vh;
 }
+
+li, a, img {
+  cursor: pointer;
+}
