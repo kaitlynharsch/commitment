@@ -104,7 +104,7 @@ h2 {
 }
 
 #heart1:after,
-#heart2:after  {
+#heart2:after {
   left: 0;
   transform: rotate(45deg);
   transform-origin: 100% 100%;
@@ -126,6 +126,13 @@ h2 {
   text-align: center;
   border-radius: 2em;
   width: 50%
+}
+
+.caption {
+  display: flex;
+  width: 70%;
+  margin: auto;
+  justify-content: center;
 }
 
 .pictures {
