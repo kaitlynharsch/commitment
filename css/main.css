@@ -149,7 +149,7 @@ a {}
   background-color: #18A0FB;
   color: white;
   font-family: 'Montserrat', sans-serif;
-  font-weight: 500;
+  font-weight: 200;
   padding: .8em 3em .8em 3em;
   border: none;
   border-radius: 6px;
@@ -158,9 +158,9 @@ a {}
 }
 
 .button:hover {
-  font-weight: 700;
-  font-size: 1.4em;
-  filter: drop-shadow(5px 5px 5px #222222);
+  font-weight: 500;
+  font-size: 1.35em;
+  filter: drop-shadow(2px 2px 2px #222222);
 }
 
 .learnMore {
