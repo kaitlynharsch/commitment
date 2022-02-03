@@ -154,7 +154,7 @@ h2 {
   box-shadow: 5px;
 }
 
-.hiking img:hover, .cuddles img:hover {
+.hiking img:hover, .cuddles img:hover, .birthday img:hover {
   width: 37%;
   height: auto;
   filter: drop-shadow(5px 5px 5px #222222);
