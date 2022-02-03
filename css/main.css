@@ -29,6 +29,14 @@ nav a:hover {
   list-style: none;
 }
 
+h3 {
+  font-weight: 600;
+}
+
+h2 {
+  font-weight: 800;
+}
+
 #bentleyPage {
   background-color: #ead2cd;
   text-align: center;
