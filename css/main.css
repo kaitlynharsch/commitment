@@ -125,3 +125,23 @@ nav a {
   border-radius: 2em;
   width: 50%
 }
+
+.hiking {
+  display: flex;
+  justify-content: center;
+}
+
+.hiking img {
+  object-fit: cover;
+  width: 30%;
+  height: auto;
+  padding: .5em;
+  border-radius: 2em;
+  box-shadow: 5px;
+}
+
+.hiking img:hover {
+  width: 32%;
+  height: auto;
+  filter: drop-shadow(5px 5px 5px #222222);
+}
